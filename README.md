@@ -36,7 +36,7 @@ For additional information on how these virtual machines were set up, visit [Cre
 
 This project will be utilizing two virtual machines (VMs) that were set up in a previous project for configuring Active Directory. These VMs are being reused because the Domain Controller VM was configured as the DNS server for the client VM. </p>
 
-To see how AD was set up, visit the project [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad) </p>
+To see how AD was set up, visit the project [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM) </p>
 
 The project will begin by using Remote Desktop Connection to remotely connect into both VMs. </p>
 
