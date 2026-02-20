@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/tylergehm/dns/main/dns.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e14a2a64-f43c-4566-8093-24d4bf7c6232" />
 </p>
 <h1>Azure DNS Fundamentals: Managing A-Records, CNAMEs, and DNS Cache</h1>
 In this Azure-based DNS exploration project, DNS (Domain Name System) translates human-readable domain names like example.com into IP addresses that computers use to communicate. You create an A-record (Address record), which maps a hostname directly to an IPv4 address. Then, observe and flush the DNS cache—a temporary local storage of resolved DNS queries to speed up repeated lookups. Finally, create a CNAME record (Canonical Name record), which aliases one domain name to another, enabling multiple services to share a single target hostname.
