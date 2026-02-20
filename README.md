@@ -21,7 +21,7 @@ In this Azure-based DNS exploration project, DNS (Domain Name System) translates
 - Windows Server 2025 Virtual Machine configured as Domain Controller
 - Windows 11 Pro Virtual Machine configured as client
 
-For additional information on how these virtual machines were set up, visit [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
+For additional information on how these virtual machines were set up, visit [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
 
 
 <h2>Project Steps</h2>
